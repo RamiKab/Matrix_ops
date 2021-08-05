@@ -1,0 +1,6 @@
+*.pyc
+*__pycache__*
+MatrixMani/
+*.egg-info*
+https:/
+*DS_Store*

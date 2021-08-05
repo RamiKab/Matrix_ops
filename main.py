@@ -1,11 +1,11 @@
-from mat_mul import mat_mul
-from pnorm import pnorm
-from trace import trace
-from transpose import transpose
-from dot_product import dotp
-from determinant import determinant_3x3, determinant_4x4
-from outer_product import outer_product
-from frobenius import frobenius
+from matrix_operations.mat_mul import mat_mul
+from matrix_operations.pnorm import pnorm
+from matrix_operations.trace import trace
+from matrix_operations.transpose import transpose
+from matrix_operations.dot_product import dotp
+from matrix_operations.determinant import determinant_3x3, determinant_4x4
+from matrix_operations.outer_product import outer_product
+from matrix_operations.frobenius import frobenius
 import numpy as np
 
 m = 6
